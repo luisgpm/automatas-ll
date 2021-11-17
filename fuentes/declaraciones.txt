@@ -1,0 +1,18 @@
+int num = 8;
+int num2 = 4 + num;
+int num5 = 8 + 7;
+
+
+
+boolean res = (8 > 9) & (10 <= 4);
+if(num>19){
+	double alan = 22.3;
+	double alan2 = num + 13.8;
+	if(num>19){
+		double yoo = 22.3;
+		double yoo2 = alan + 13.8;
+	}
+	double luis = 12.53 + alan;
+
+	int luisg = 10;
+}

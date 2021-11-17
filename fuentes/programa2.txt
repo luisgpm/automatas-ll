@@ -1,0 +1,10 @@
+int x = 5+8-3;
+
+if(x >= 10){
+    write("Hola");
+}
+
+int mivar = 55;
+
+-
+

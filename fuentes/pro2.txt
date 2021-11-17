@@ -1,0 +1,23 @@
+{
+	console.log("Texto texto");
+	for(var = 8; variable<=100; var++){
+            read(miVariable);
+            console.log(otraVariable);
+	};
+
+        console.log("No me sale"+" jejejeje");
+        if(unaVariable <= 20){
+            variable2 = "holaaaa";
+            if(unaVariable <= 20){
+                variable2 = 100+(x+(x+x+x)+(x+x+x));
+            }else{
+
+            };
+        }else{
+            if(unaVariable <= 20){
+                variable2 = 100+(x+(x+x+x)+(x+x+x));
+            }else{
+
+            };
+        };
+}

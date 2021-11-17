@@ -1,0 +1,36 @@
+
+int r1=0;
+int r2=0;
+int r3=0;
+
+int acum = 0;
+
+while(acum < 5){
+
+    write("Ingresa el regalo: ");
+    write(acum);
+    read(regalo);
+
+    if(regalo == 1){
+        r1 = r1+1;
+    }else{
+        if(regalo == 2){
+            r2 = r2+1;
+        }else{
+            if(regalo == 3){
+                r3 = r3+1;
+            }
+        }
+    }
+
+    acum = acum + 1;
+}
+
+write("Numero de alumnos que escogieron el regalo 1:");
+write(r1);
+write("Numero de alumnos que escogieron el regalo 2:");
+write(r2);
+write("Numero de alumnos que escogieron el regalo 3:");
+write(r3);
+
+-

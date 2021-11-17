@@ -1,0 +1,6 @@
+	int num = 8;
+	int num2 = 5 + 8 - 3 + 10;
+
+    double numy = 5.3 + 4.9 / 2;
+
+-

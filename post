@@ -1,0 +1,3 @@
+int z = 10/5/4
+int w = z+8*2
+int x = w-10
